@@ -1,10 +1,56 @@
-2022-08-24 09:30:40.154 [main] DEBUG de.msgdavid.CalculatorDemo - We've just greeted the user!
-2022-08-24 09:30:40.155 [main] INFO  de.msgdavid.CalculatorDemo - We've just greeted the user!
-2022-08-24 09:30:40.156 [main] WARN  de.msgdavid.CalculatorDemo - We've just greeted the user!
-2022-08-24 09:30:40.156 [main] ERROR de.msgdavid.CalculatorDemo - We've just greeted the user!
-2022-08-24 09:30:40.156 [main] FATAL de.msgdavid.CalculatorDemo - We've just greeted the user!
-2022-08-24 09:31:45.024 [main] DEBUG de.msgdavid.CalculatorDemo - We've just greeted the user!
-2022-08-24 09:31:45.025 [main] INFO  de.msgdavid.CalculatorDemo - We've just greeted the user!
-2022-08-24 09:31:45.025 [main] WARN  de.msgdavid.CalculatorDemo - We've just greeted the user!
-2022-08-24 09:31:45.025 [main] ERROR de.msgdavid.CalculatorDemo - We've just greeted the user!
-2022-08-24 09:31:45.025 [main] FATAL de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:51:09.098 [main] DEBUG de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:51:09.100 [main] INFO  de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:51:09.100 [main] WARN  de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:51:09.100 [main] ERROR de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:51:09.100 [main] FATAL de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 10:25:50.334 [main] INFO  de.msgdavid.CalculatorDemo - 8.0
+2022-08-24 10:41:19.905 [main] INFO  de.msgdavid.CalculatorDemo - 8.0
+2022-08-24 10:41:37.446 [main] INFO  de.msgdavid.CalculatorDemo - 8.0
+2022-08-24 11:05:39.955 [main] INFO  de.msgdavid.CalculatorDemo - 0.5
+2022-08-24 11:06:50.580 [main] INFO  de.msgdavid.CalculatorDemo - 25.0
+2022-08-24 11:09:56.716 [main] INFO  de.msgdavid.CalculatorDemo - 1.0
+2022-08-24 11:10:19.260 [main] INFO  de.msgdavid.CalculatorDemo - 1.0
+2022-08-24 11:10:35.180 [main] INFO  de.msgdavid.CalculatorDemo - 1.0
+2022-08-24 11:11:03.566 [main] INFO  de.msgdavid.CalculatorDemo - 1.0
+2022-08-24 11:11:36.075 [main] INFO  de.msgdavid.CalculatorDemo - 0.0
+2022-08-24 11:11:46.869 [main] INFO  de.msgdavid.CalculatorDemo - 2.0
+2022-08-24 11:34:03.021 [main] INFO  de.msgdavid.CalculatorDemo - 24.0
+2022-08-24 12:56:56.496 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Add' erfolgreich!
+2022-08-24 12:56:56.511 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Pow' erfolgreich!
+2022-08-24 12:56:56.512 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Multi' erfolgreich!
+2022-08-24 12:56:56.512 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sqrt' erfolgreich!
+2022-08-24 12:57:12.854 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Add' erfolgreich!
+2022-08-24 12:57:12.862 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Pow' erfolgreich!
+2022-08-24 12:57:12.863 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Multi' erfolgreich!
+2022-08-24 12:57:12.863 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sqrt' erfolgreich!
+2022-08-24 12:57:25.412 [main] INFO  de.msgdavid.CalculatorDemo - 4.0
+2022-08-24 12:58:00.083 [main] INFO  de.msgdavid.CalculatorDemo - 2.0
+2022-08-24 12:58:26.850 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Add' erfolgreich!
+2022-08-24 12:58:26.856 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Mod' erfolgreich!
+2022-08-24 12:58:26.857 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Pow' erfolgreich!
+2022-08-24 12:58:26.858 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Multi' erfolgreich!
+2022-08-24 12:58:26.859 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sqrt' erfolgreich!
+2022-08-24 12:59:03.647 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Add' erfolgreich!
+2022-08-24 12:59:03.654 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Mod' erfolgreich!
+2022-08-24 12:59:03.655 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Pow' erfolgreich!
+2022-08-24 12:59:03.656 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Multi' erfolgreich!
+2022-08-24 12:59:03.656 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sqrt' erfolgreich!
+2022-08-24 12:59:17.167 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Add' erfolgreich!
+2022-08-24 12:59:17.174 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Mod' erfolgreich!
+2022-08-24 12:59:17.175 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Pow' erfolgreich!
+2022-08-24 12:59:17.176 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Multi' erfolgreich!
+2022-08-24 12:59:17.176 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sqrt' erfolgreich!
+2022-08-24 12:59:28.098 [main] INFO  de.msgdavid.CalculatorDemo - -2.0
+2022-08-24 13:00:57.787 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Add' erfolgreich!
+2022-08-24 13:00:57.793 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Mod' erfolgreich!
+2022-08-24 13:00:57.794 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Pow' erfolgreich!
+2022-08-24 13:00:57.794 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sub' erfolgreich!
+2022-08-24 13:00:57.794 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Multi' erfolgreich!
+2022-08-24 13:00:57.794 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sqrt' erfolgreich!
+2022-08-24 13:02:15.603 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Add' erfolgreich!
+2022-08-24 13:02:15.606 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Div' erfolgreich!
+2022-08-24 13:02:15.607 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Mod' erfolgreich!
+2022-08-24 13:02:15.607 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Pow' erfolgreich!
+2022-08-24 13:02:15.607 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sub' erfolgreich!
+2022-08-24 13:02:15.608 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Multi' erfolgreich!
+2022-08-24 13:02:15.608 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sqrt' erfolgreich!
