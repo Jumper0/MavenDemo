@@ -23,7 +23,7 @@ public class Calculator {
 		return param1 * param2;
 	}
 
-	public static double sqrt(double param1){ //Symbol w2
+	public static double sqrt(double param1){ //Symbol r2
 
 		return Math.sqrt(param1);
 	}

@@ -11,42 +11,91 @@ public class CalculatorDemo {
     public static void main(String[] args) {
         double param1 = 0;
         double param2 = 0;
-        String symbol = "";
+        String operator = "";
 
         Scanner scan = new Scanner(System.in);
 
+        System.out.println(" ");
+
+        System.out.println("- - - - - | Start | - - - - -");
+        System.out.println(" ");
         System.out.println("Which operator do you want to use?");
-        System.out.println("Optional: ");
-        System.out.println("Symbol: ");
-        symbol = scan.nextLine();
-        if (symbol.equals("w2")) {
-            System.out.print("Var : ");
+        System.out.println(" ");
+        System.out.println("- - - - - | Options | - - - - -");
+        System.out.println(" ");
+        System.out.println("Add: +");
+        System.out.println("Subtract: -");
+        System.out.println("Multiply: *");
+        System.out.println("Divide: /");
+        System.out.println("Square root: r2");
+        System.out.println("Square: xn");
+        System.out.println("Modulo: %");
+        System.out.println(" ");
+        System.out.println("- - - - - | Input | - - - - -");
+        System.out.println(" ");
+        System.out.print("Operator: ");
+        operator = scan.nextLine();
+
+        if (operator.equals("+")) {
+            System.out.print("Summand: ");
             param1 = scan.nextDouble();
-        } else {
-            System.out.print("Var' : ");
+            System.out.print("Summand: ");
+            param2 = scan.nextDouble();
+        } else if (operator.equals("-")) {
+            System.out.print("Minuend: ");
             param1 = scan.nextDouble();
-            System.out.print("Var'' : ");
+            System.out.print("Subtrahend: ");
+            param2 = scan.nextDouble();
+        } else if (operator.equals("*")) {
+            System.out.print("Faktor: ");
+            param1 = scan.nextDouble();
+            System.out.print("Faktor: ");
+            param2 = scan.nextDouble();
+        } else if (operator.equals("/")) {
+            System.out.print("Dividend: ");
+            param1 = scan.nextDouble();
+            System.out.print("Divisor: ");
+            param2 = scan.nextDouble();
+        } else if (operator.equals("r2")) {
+            System.out.print("Radikant: ");
+            param1 = scan.nextDouble();
+        } else if (operator.equals("xn")) {
+            System.out.print("Basis: ");
+            param1 = scan.nextDouble();
+            System.out.print("Exponent: ");
+            param2 = scan.nextDouble();
+        } else if (operator.equals("%")) {
+            System.out.print("Dividend: ");
+            param1 = scan.nextDouble();
+            System.out.print("Divisor: ");
             param2 = scan.nextDouble();
         }
+
+        System.out.println(" ");
+        System.out.println("- - - - - | Output | - - - - -");
+        System.out.println(" ");
 
         scan.close();
 
         Calculator calc = new Calculator();
 
-        if (symbol.equals("+")) {
+        if (operator.equals("+")) {
             logger.info(calc.add(param1, param2));
-        } else if (symbol.equals("-")) {
+        } else if (operator.equals("-")) {
             logger.info(calc.sub(param1, param2));
-        } else if (symbol.equals("*")) {
+        } else if (operator.equals("*")) {
             logger.info(calc.multi(param1, param2));
-        } else if (symbol.equals("/") && param2 != 0) {
+        } else if (operator.equals("/") && param2 != 0) {
             logger.info(calc.div(param1, param2));
-        } else if (symbol.equals("w2")) {
+        } else if (operator.equals("r2")) {
             logger.info(calc.sqrt(param1));
-        } else if (symbol.equals("x2")) {
+        } else if (operator.equals("xn")) {
             logger.info(calc.pow(param1, param2));
-        } else if (symbol.equals("%")) {
+        } else if (operator.equals("%")) {
             logger.info(calc.mod(param1, param2));
         }
+
+        System.out.println(" ");
+        System.out.println("- - - - - | End | - - - - -");
     }
 }
