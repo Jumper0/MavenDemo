@@ -1,0 +1,10 @@
+2022-08-24 09:30:40.154 [main] DEBUG de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:30:40.155 [main] INFO  de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:30:40.156 [main] WARN  de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:30:40.156 [main] ERROR de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:30:40.156 [main] FATAL de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:31:45.024 [main] DEBUG de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:31:45.025 [main] INFO  de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:31:45.025 [main] WARN  de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:31:45.025 [main] ERROR de.msgdavid.CalculatorDemo - We've just greeted the user!
+2022-08-24 09:31:45.025 [main] FATAL de.msgdavid.CalculatorDemo - We've just greeted the user!
