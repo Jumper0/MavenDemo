@@ -19,14 +19,17 @@ public class Calculator {
 	}
 
 	public static double multi(double param1, double param2) { //Symbol *
+
 		return param1 * param2;
 	}
 
 	public static double sqrt(double param1){ //Symbol w2
+
 		return Math.sqrt(param1);
 	}
 
-	public static double pow(double param1, double param2){ //Symbol x2
+	public static double pow(double param1, double param2){ //Symbol xn
+
 		return Math.pow(param1, param2);
 	}
 
