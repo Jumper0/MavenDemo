@@ -2,7 +2,7 @@ package de.msgdavid;
 
 public class Calculator {
 
-	private Calculator() {
+	public Calculator() {
 
 	}
 
