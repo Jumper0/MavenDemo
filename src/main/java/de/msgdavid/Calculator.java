@@ -23,6 +23,11 @@ public class Calculator {
 		return param1 * param2;
 	}
 
+	/**
+	 * Berechnen der Quadratwurzel
+	 * @param param1
+	 * @return
+	 */
 	public static double sqrt(double param1){ //Symbol r2
 
 		return Math.sqrt(param1);
