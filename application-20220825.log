@@ -1,0 +1,8 @@
+2022-08-25 11:22:41.439 [main] INFO  de.msgdavid.CalculatorDemo - 1.0E200
+2022-08-25 11:24:24.132 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Add' erfolgreich!
+2022-08-25 11:24:24.135 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Div' erfolgreich!
+2022-08-25 11:24:24.136 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Mod' erfolgreich!
+2022-08-25 11:24:24.136 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Pow' erfolgreich!
+2022-08-25 11:24:24.137 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sub' erfolgreich!
+2022-08-25 11:24:24.137 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Multi' erfolgreich!
+2022-08-25 11:24:24.138 [main] INFO  de.msgdavid.CalculatorDemo - Test 'Sqrt' erfolgreich!
